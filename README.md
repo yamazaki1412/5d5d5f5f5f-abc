@@ -10,7 +10,7 @@
 2. 点击 **Create Worker**
 3. 删除默认原始代码
 4. 复制或粘贴 `worker.js` 内容
-5. 点击 **Save and Deploy**保存
+5. 点击 **Save and Deploy**  保存
 
 ---
 
